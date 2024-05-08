@@ -1,0 +1,8 @@
+.env
+
+# Ignore database migrations
+**/migrations/
+*/migrations/*.pyc
+*/migrations/*.py
+
+*.pyc

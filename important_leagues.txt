@@ -1,0 +1,57 @@
+ATP
+Boxing
+Bundesliga
+Gold Cup
+Copa América
+Copa del Rey
+Coppa Italia
+DFB Pokal
+FA Community Shield
+FA Cup
+EFL Cup
+Premier League (Football > England)
+FIFA Club World Cup
+World Cup Women (Football, World)
+Formula 1
+ICC World Cup
+IndyCar
+LaLiga
+Ligue 1 (Soccer, France)
+LIV Golf 
+LPGA Tour
+MLB
+MLS
+MotoGP
+NASCAR Trucks
+NASCAR Cup Series
+NASCAR Xfinity Series
+NBA
+NCAA (American Football, USA)
+NCAA (Basketball, USA)
+NFL
+NHL
+PGA Tour
+Six Nations (Rugby Union, Europe)
+Serie A (Soccer, Italy)
+Super Cup (Soccer, Spain)
+Champions League (Soccer, Europe)
+Euro (Soccer, Europe)
+Europa Conference League
+Europa League
+UEFA Nations League
+UEFA Super Cup
+UFC Men (Mixed Martial Arts, World)
+UFC Women (Mixed Martial Arts, World)
+WNBA
+World Baseball Classic
+WTA
+Diamond League*
+FIBA World Cup*
+World Cup (male, Soccer, International)
+College Baseball*
+College Softball*
+Track & field
+Olympic Soccer (male, Olympics, International)*
+Olympic Soccer (female, Olympics, International)*
+Olympic (followed by [name of particular sport])*
+Rugby World Cup*
